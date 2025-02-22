@@ -37,7 +37,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
      Toggle = AddToggle(Tab1o, {
       Name = "YTB: Random Hub",
-      Default = true,
+      Default = false,
       Callback = function()
      end
     })
